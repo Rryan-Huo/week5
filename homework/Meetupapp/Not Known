@@ -1,0 +1,2 @@
+      invoke  active_record
+      create    db/migrate/20130213040851_change_events.rb
